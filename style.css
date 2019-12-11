@@ -1,0 +1,148 @@
+body {
+    background: rgb(80, 79, 79);
+    color:rgb(252, 252, 252);
+    margin:0;
+    padding:0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+a.du
+{ 
+  color:white;
+  
+   }
+a.ud 
+{ 
+  color:white;
+  text-decoration: none;
+   }
+ul.po{
+   
+    margin :50px 0px 0px 0px;
+}
+
+  
+header {  background: url(Images/ac.png);
+    color: black;
+    background-size:cover;
+    background: size 100%;
+background-repeat: no-repeat;
+    display:flex;
+    height:1000px;
+    margin:auto;
+    flex-direction: row;
+        
+}}
+section.y{
+    background:black;
+    padding: 20px;
+    font-size:35px;
+  border: 2px solid white;
+    
+}
+h1{
+    margin:auto;
+}
+ul.z{
+    margin-left: 450px;
+    padding: 0;
+    list-style-type:none;
+}
+ul.h{
+    padding: 0;
+    list-style-type:none;
+
+}
+li.v{
+    display:inline-block;
+    margin:0 275px 0 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+li.z{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size:50px;
+    height:25px;
+    width:20px;
+    display:inline-block;
+    margin:0 450px 0 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+     }
+
+section.u{
+    background:whitesmoke;
+    padding: 20px;
+  
+  text-align: center;
+  font-size:20px;
+  color:black;
+    
+}
+button.e{
+    background-image:url(Images/b.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+  border: 1px solid white;
+  box-shadow: rgb(218, 216, 216) 0px 10px 25px;
+  color:gray;
+  text-align: left;
+  font-family: unset;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  height:400px;
+  width:300px;
+  margin: 0 15px 0 0;
+}
+button.f{
+    background-image:url(Images/g.jpg);
+    background-color:gray;
+  border: 1px solid white;
+  color:red;
+  background-repeat: no-repeat;
+  border-radius:50%;
+  box-shadow: rgb(218, 216, 216) 0px 10px 25px;
+  color:gray;
+    background-size: cover;
+  text-align: left;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 40px;
+  height:300px;
+  width:300px;
+  margin: 5px 10px 0 0;
+}button.g{
+    background-image:url(Images/f.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+  border: 1px solid white;
+  box-shadow: rgb(218, 216, 216) 0px 10px 25px;
+  color:gray;
+  text-align: left;
+  font-family: unset;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  height:400px;
+  width:300px;
+  margin: 0 15px 0 0;
+}
+button.d {
+  background-color:black;
+  color:white;
+  border-radius: 20px;
+  border: none;
+  color:purple;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin:0px 100px 0px 0px;
+}
+footer{
+    height:150px;
+}
+div{
+    display:inline-flex;
+margin:50px 0px 50px 150px;
+    font-size: 18px;
+}
