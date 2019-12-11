@@ -79,6 +79,7 @@ section.u{
 button.e{
     background-image:url(Images/b.jpg);
     background-repeat: no-repeat;
+  background-color:aqua;
     background-size:cover;
   border: 1px solid white;
   box-shadow: rgb(218, 216, 216) 0px 10px 25px;
@@ -94,7 +95,7 @@ button.e{
 }
 button.f{
     background-image:url(Images/g.jpg);
-    background-color:gray;
+    background-color:aqua;
   border: 1px solid white;
   color:red;
   background-repeat: no-repeat;
@@ -111,7 +112,8 @@ button.f{
   margin: 5px 10px 0 0;
 }button.g{
     background-image:url(Images/f.jpg);
-    background-repeat: no-repeat;
+background-color:aqua;    
+background-repeat: no-repeat;
     background-size:cover;
   border: 1px solid white;
   box-shadow: rgb(218, 216, 216) 0px 10px 25px;
