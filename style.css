@@ -82,7 +82,7 @@ button.e{
   background-color:aqua;
     background-size:cover;
   border: 1px solid white;
-  box-shadow: rgb(218, 216, 216) 0px 10px 10px;
+  box-shadow: rgb(218, 216, 216) 0px 5px 10px;
   color:gray;
   text-align: left;
   font-family: unset;
@@ -100,7 +100,7 @@ button.f{
   color:red;
   background-repeat: no-repeat;
   border-radius:50%;
-  box-shadow: rgb(218, 216, 216) 0px 10px 10px;
+  box-shadow: rgb(218, 216, 216) 0px 5px 10px;
   color:gray;
     background-size: cover;
   text-align: left;
@@ -116,7 +116,7 @@ background-color:aqua;
 background-repeat: no-repeat;
     background-size:cover;
   border: 1px solid white;
-  box-shadow: rgb(218, 216, 216) 0px 10px 10px;
+  box-shadow: rgb(218, 216, 216) 0px 5px 10px;
   color:gray;
   text-align: left;
   font-family: unset;
