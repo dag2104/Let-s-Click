@@ -87,6 +87,8 @@ button.e{
   text-align: left;
   font-family: unset;
   text-decoration: none;
+  transition: all 0.5s;
+  cursor: pointer;
   display: inline-block;
   font-size: 50px;
   height:400px;
